@@ -22,8 +22,8 @@ AI-and-Machine-Learning-Portfolio/
 │   └── artificial_neural_networks.ipynb
 │
 ├── Supervised-Machine-Learning/
-│   ├── student_performance_eda.ipynb
 │   └── student_performance_model_training.ipynb
+│  
 │
 ├── Unsupervised-Machine-Learning/
 │   └── unsupervised_ml_algorithms.ipynb
